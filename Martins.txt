@@ -1,0 +1,3 @@
+Mārtiņš Lancs
+Python and SQL
+C# and Engineering
